@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shade\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shade\\.nuget\\packages"
+    ]
+  }
+}

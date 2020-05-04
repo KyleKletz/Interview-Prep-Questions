@@ -1,0 +1,13 @@
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.csprojAssemblyReference.cache
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.csproj.CoreCompileInputs.cache
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.AssemblyInfoInputs.cache
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.AssemblyInfo.cs
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.exe
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.deps.json
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.runtimeconfig.json
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.runtimeconfig.dev.json
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.dll
+D:\CodingProjects\React\test-C#\bin\Debug\netcoreapp3.1\test-C#.pdb
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.dll
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.pdb
+D:\CodingProjects\React\test-C#\obj\Debug\netcoreapp3.1\test-C#.genruntimeconfig.cache
